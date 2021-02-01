@@ -1,0 +1,50 @@
+img {
+    width: 1000px;
+    height: 1000px;
+}
+
+body {
+    text-align: center;
+    background-color: burlywood;
+    background-image: linear-gradient(to right,red,yellow,green,blue,orange)
+}
+
+.lines {
+    font-size: 60px;
+}
+
+p {
+    font-size: 45px;
+}
+
+
+.menu {
+    list-style: none;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 68px;
+    color: aquamarine;
+    z-index: 10;
+    top: 20px;
+   right:500px;
+    
+    
+    
+}
+
+.link:hover {
+    background-color: burlywood;
+    cursor: pointer;
+    
+}
+
+.links {
+    position: absolute;
+}
+
+#aboute {
+    font-size: 68px;
+}
+
+h1 {
+    font-size: 70px;
+}
